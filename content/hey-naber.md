@@ -7,4 +7,4 @@ tags = ["Ömer"]
 title = "Hey Naber?"
 
 +++
-Bloguma hoş geldiniz
+Bloguma hoş geldiniz Buraya
