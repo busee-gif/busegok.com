@@ -35,18 +35,9 @@ fields:
   default: []
   label: tags
 - name: draft
-  type: select
-  default: []
+  type: text
   config:
     required: false
-    options:
-    - 'false'
-    - 'true'
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
   label: draft
 pages:
 - content/post/hey-naber.md
