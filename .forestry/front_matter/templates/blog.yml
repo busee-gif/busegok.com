@@ -35,7 +35,9 @@ fields:
   default: []
   label: tags
 - name: draft
-  type: boolean
+  type: text
+  config:
+    required: false
   label: draft
 pages:
-- content/hey-naber.md
+- content/post/hey-naber.md
