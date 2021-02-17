@@ -34,5 +34,8 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: draft
+  type: boolean
+  label: draft
 pages:
 - content/hey-naber.md
