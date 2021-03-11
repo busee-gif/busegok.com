@@ -1,33 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.busegok.com/</loc>
-    <lastmod>2021-02-21T21:08:05+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.busegok.com/p/k%C4%B1rlang%C4%B1%C3%A7lar-gibi/</loc>
-    <lastmod>2021-02-21T21:08:05+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.busegok.com/post/</loc>
-    <lastmod>2021-02-21T21:08:05+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.busegok.com/p/ilk-ad%C4%B1m/</loc>
-    <lastmod>2021-02-18T13:55:59+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.busegok.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.busegok.com/tags/</loc>
   </url>
-  
 </urlset>
