@@ -1,7 +1,7 @@
 ---
 title: "İlk Adım"
 date: 2021-02-18T13:55:59+03:00
-draft: true
+draft: false
 
 description: "Bu benim ilk yazım"
 
