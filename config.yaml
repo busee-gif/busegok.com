@@ -2,7 +2,7 @@ baseurl: https://busegok.com
 languageCode: tr
 theme: hugo-theme-stack
 paginate: 5
-title: Buse GÖK
+title: Ömer Kurt
 
 # Change it to your Disqus shortname before using
 disqusShortname: busegok-com

@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://busegok.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://busegok.com/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://busegok.com/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://busegok.com/hakk%C4%B1mda/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://busegok.com/search/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://busegok.com/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://busegok.com/tags/</loc>
   </url>
+  
 </urlset>
