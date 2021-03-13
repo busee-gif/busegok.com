@@ -30,8 +30,8 @@ params:
         customText: Kişisel Blog
 
     dateFormat:
-        published: 2006-01-02
-        lastUpdated: 2006-01-02
+        published: 02-01-2006
+        lastUpdated: 02-01-2006
 
     sidebar:
         emoji: 🪐
