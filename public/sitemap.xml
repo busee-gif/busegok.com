@@ -2,17 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://busegok.com/</loc>
-    <lastmod>2021-02-18T13:55:59+03:00</lastmod>
-  </url><url>
-    <loc>https://busegok.com/post/</loc>
-    <lastmod>2021-02-18T13:55:59+03:00</lastmod>
-  </url><url>
-    <loc>https://busegok.com/p/ilk-ad%C4%B1m/</loc>
-    <lastmod>2021-02-18T13:55:59+03:00</lastmod>
-  </url><url>
     <loc>https://busegok.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://busegok.com/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://busegok.com/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
