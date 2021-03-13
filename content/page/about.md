@@ -1,6 +1,6 @@
 ---
 title: Hakkımda
-description: Benim hakkımda olan herşey, bildiklerim öğrendiklerim ve daha da öğreneceklerim.
+description: Yönetim Bilişim Sistemleri bölümü öğrencisi
 date: '28-02-2019'
 aliases:
   - about-us
